@@ -3,7 +3,8 @@ numpy
 matplotlib
 seaborn
 scikit-learn
+scipy
 xgboost
 lightgbm
-scipy
+RandomizedSearchCV
 imblearn
