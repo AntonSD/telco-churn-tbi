@@ -73,5 +73,5 @@ The following artifacts are exported for reproducibility and inference deploymen
 1. Install project dependencies:
 ```bash
 pip install -r requirements.txt
-
+2. Run notebook telco_customer_churn.ipynb cell-by-cell
 # telco-churn-tbi
